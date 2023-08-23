@@ -1,0 +1,64 @@
+body {
+  color: #333;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 0 1rem;
+
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.main-content {
+  flex-grow: 1;
+}
+
+header {
+  margin-top: 1rem;
+  margin-bottom: 3rem;
+}
+
+header a {
+  color: #888;
+  margin-right: 1rem;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+.main-content .about-img {
+  width: 16rem;
+}
+
+input {
+  font-size: large;
+  font-weight: bold;
+  border: 1px #2f8507 solid;
+  border-radius: 0.5rem;
+  background: #caffd7;
+  color: #0f5800;
+  padding: 0.5rem;
+  width: 15rem;
+  min-width: 10rem;
+}
+
+button {
+  cursor: pointer;
+  background: #2f8507;
+  border: 1px solid #0f5800;
+  border-radius: 0.5rem;
+  font-size: large;
+  color: white;
+  padding: 0.5rem;
+}
+
+footer {
+  color: #888;
+  border-top: 1px solid #eee;
+  margin-top: 1rem;
+  padding: 1rem;
+}
