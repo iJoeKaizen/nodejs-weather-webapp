@@ -1,4 +1,3 @@
-const mainContent = document.querySelector(".main-content");
 const weatherForm = document.querySelector("form");
 const search = document.querySelector("input");
 const displayInfo = document.querySelector(".display");
