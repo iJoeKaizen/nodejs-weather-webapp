@@ -31,7 +31,7 @@ h1 {
 }
 
 .main-content .about-img {
-  width: 16rem;
+  width: 32rem;
 }
 
 input {
@@ -39,7 +39,7 @@ input {
   font-weight: bold;
   border: 1px #2f8507 solid;
   border-radius: 0.5rem;
-  background: #caffd7;
+  background: #dbffd0;
   color: #0f5800;
   padding: 0.5rem;
   width: 15rem;
